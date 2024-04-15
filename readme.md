@@ -16,7 +16,7 @@ To get started with the Amazon Scraper, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/david-ghulijanyan/scrapper.git
-   cd your-repository-folder
+   cd scrapper
    ```
 
 2. Install the required dependencies:
